@@ -1,0 +1,1 @@
+# CustomMasterDetailXamarin.Form
